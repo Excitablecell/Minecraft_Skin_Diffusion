@@ -1,0 +1,9 @@
+git+https://github.com/huggingface/diffusers.git
+git+https://github.com/huggingface/transformers.git
+torch 
+numpy 
+torchvision 
+gradio 
+pillow
+accelerate
+minepi
