@@ -2,7 +2,7 @@
 
 ## Dependencies
 * python>=3.8
-* diffuser==0.19.2
+* diffusers
 * minepi
 * matplotlib
 
