@@ -16,6 +16,7 @@ Or you can just use the requiements.txt
 
 ## Usage
 1.You need to download and extract model from my [Google drive](https://drive.google.com/file/d/1nv-3oEUSCvrBqdQjcytxNbAF4qwNXDbS/view?usp=sharing)
+
 (中文翻译：你需要从我的Google云或者百度网盘中下载模型，并解压到工程目录中，百度网盘链接: https://pan.baidu.com/s/1PG3jrcqcHyUrTiOsDX6ECA?pwd=zr7s 提取码: zr7s)
 
 2.Just run the huggingface_diffuser_inference.py
