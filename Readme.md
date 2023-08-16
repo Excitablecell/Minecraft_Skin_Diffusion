@@ -2,10 +2,14 @@
 
 ## Dependencies
 * Ubuntu 20.04 LTS
+* CUDA 11.7
 * python>=3.8
+* pytorch
 * diffusers
 * minepi
 * matplotlib
+
+(中文翻译：我是在ubuntu 20.04系统下运行这个工程的，你需要安装CUDA11.7和pytorch，以及上面提到的库)
 
 ## Install
 We recommend using anaconda environment
