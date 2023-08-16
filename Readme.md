@@ -15,9 +15,8 @@ Or you can just use the requiements.txt
 （中文翻译：我建议你使用anaconda，然后根据requiements.txt安装依赖库）
 
 ## Usage
-1.You need to download and extract [Model](https://drive.google.com/file/d/1nv-3oEUSCvrBqdQjcytxNbAF4qwNXDbS/view?usp=sharing) from my google drive
-
-(中文翻译：你需要从我的Google云盘中下载模型，链接在上面的Model里，并解压到工程目录中)
+1.You need to download and extract model from my [Google drive](https://drive.google.com/file/d/1nv-3oEUSCvrBqdQjcytxNbAF4qwNXDbS/view?usp=sharing)
+(中文翻译：你需要从我的Google云或者百度网盘中下载模型，并解压到工程目录中，百度网盘链接: https://pan.baidu.com/s/1PG3jrcqcHyUrTiOsDX6ECA?pwd=zr7s 提取码: zr7s)
 
 2.Just run the huggingface_diffuser_inference.py
 
